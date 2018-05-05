@@ -109,6 +109,7 @@ The Program promot the user to read the values of a,b & c and display the roots.
 	.......................................
 	Last Line: last digit
 input:5678
+
 output:
 
 5678
@@ -122,6 +123,7 @@ output:
 70) Reverse the above program.
 
 input:5678
+
 output:
 
 8
