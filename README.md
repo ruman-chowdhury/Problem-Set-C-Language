@@ -110,18 +110,26 @@ The Program promot the user to read the values of a,b & c and display the roots.
 	Last Line: last digit
 input:5678
 output:
+
 5678
+
 678
+
 78
+
 8
 
 70) Reverse the above program.
 
 input:5678
 output:
+
 8
+
 78
+
 678
+
 5678
 
 71) Program of a Straight-line method of computing the yearly depreciation of the value of an item i.e DEPREATION = (PURCHASE VALUE - SALVAGE VALUE) / YEAR OF SERVICE.
